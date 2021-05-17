@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T02:40:05.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="qRznBeQ-Jz9mbPqxgaTJ" type="github"><diagram id="KurNlbq6RuvW-whZrr8H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T03:37:08.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8xuAkghPz0V82bbP6XCO" version="14.6.13" type="github">
+  <diagram id="KurNlbq6RuvW-whZrr8H" name="第 1 页">
+    <mxGraphModel dx="1205" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgZHBFGTuroAZLbvqYEN-1" target="bgZHBFGTuroAZLbvqYEN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-1" value="安装及更新离线执行机（第一次使用需要添加&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;授权文件&lt;/font&gt;&lt;/b&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgZHBFGTuroAZLbvqYEN-4" target="bgZHBFGTuroAZLbvqYEN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-4" value="上传测试用例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bgZHBFGTuroAZLbvqYEN-5" target="bgZHBFGTuroAZLbvqYEN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-5" value="配置环境参数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgZHBFGTuroAZLbvqYEN-6" value="执行测试用例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
